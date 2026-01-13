@@ -32,6 +32,5 @@ Built as my **second practice project for Hack Club (Flavortown)** 🚀
 ---
 
 ## 🌐 Live Demo
-(Add your GitHub Pages or Netlify link here)
+https://anindasadhukhan-hackclub.github.io/simple-calculator/
 
-Example:
